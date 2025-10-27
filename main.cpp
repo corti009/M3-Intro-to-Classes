@@ -26,7 +26,7 @@ public:
     }
 
     Date(int m, int d, int y) {
-        
+
         month = DEFAULT_MONTH;
         day = DEFAULT_DAY;
         year = DEFAULT_YEAR;
